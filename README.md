@@ -2,6 +2,12 @@
 
 ![malware-detection](https://github.com/himanshu-commits/URL-DETECTOR/assets/82858309/a3cbf7d6-b7f5-45c4-9fc8-982b7c3a4fe4)
 
+<img width="767" alt="Screenshot 2023-10-26 at 10 50 16 PM" src="https://github.com/himanshu-commits/URL-DETECTOR/assets/82858309/8fc53cc1-a66d-40ff-888c-cb731bc8aa8f">
+
+<img width="767" alt="Screenshot 2023-10-26 at 10 50 38 PM" src="https://github.com/himanshu-commits/URL-DETECTOR/assets/82858309/c41d4a8c-725c-4489-a696-c68811c10a7f">
+
+
+
 
 ## Table of Contents
 
